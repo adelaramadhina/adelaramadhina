@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adela Ramadhina. I am a second-year student at the University of Canberra studying Bachelor of Software Engineering. Through personal projects, I've been experimenting with web development, cloud computing, and machine learning. I also love infusing my passions for art and programming. 
+My name is Adela Ramadhina. I am a second-year student at the University of Canberra studying Bachelor of Software Engineering. Through personal projects, I've been experimenting with web development, cloud computing, and machine learning. I also love infusing my passion for art and programming. 
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Flutter & Swift.
